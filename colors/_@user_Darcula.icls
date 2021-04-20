@@ -4,15 +4,35 @@
     <property name="created">2021-03-15T10:37:28</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2021-03-17T09:00:00</property>
+    <property name="modified">2021-04-20T14:35:51</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <attributes>
+    <option name="ABSTRACT_METHOD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="48c9ab" />
+      </value>
+    </option>
+    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="6f9bc9" />
+      </value>
+    </option>
     <option name="CLASS_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="b9a01d" />
+      </value>
+    </option>
+    <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="1ca190" />
+      </value>
+    </option>
+    <option name="ENUM_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="638e4c" />
       </value>
     </option>
     <option name="HTML_CODE">
@@ -26,9 +46,19 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="INHERITED_METHOD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="c9964e" />
+      </value>
+    </option>
     <option name="INTERFACE_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="79a4d8" />
+      </value>
+    </option>
+    <option name="JAVA_DOC_MARKUP">
+      <value>
+        <option name="FOREGROUND" value="c1c291" />
       </value>
     </option>
     <option name="JAVA_STRING">
@@ -41,13 +71,20 @@
     </option>
     <option name="LOCAL_VARIABLE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="c2c2c2" />
+        <option name="FOREGROUND" value="938888" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="REASSIGNED_LOCAL_VARIABLE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="8aa5ba" />
+        <option name="EFFECT_COLOR" value="707d95" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
